@@ -1,0 +1,4 @@
+name: Banstick
+version: @version@
+main: play.minecraft.banstick.Banstick
+api-version: 1.16
